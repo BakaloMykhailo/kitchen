@@ -194,7 +194,8 @@
 		margin: 0px;
 	}
 	footer .copyright{
-		font-size: 10px
+		font-size: 10px;
+		text-align: center;
 	}
 }
 @media (min-width: 960px){
